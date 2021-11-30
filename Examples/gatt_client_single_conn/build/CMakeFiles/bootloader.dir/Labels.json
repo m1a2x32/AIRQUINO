@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gatt_client/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

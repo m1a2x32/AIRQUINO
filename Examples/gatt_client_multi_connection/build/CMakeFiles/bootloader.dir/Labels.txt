@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/CMakeFiles/bootloader
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/CMakeFiles/bootloader.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/CMakeFiles/bootloader-complete.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Knowledge/esp-idf-master/examples/bluetooth/bluedroid/ble/gattc_multi_connect/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
