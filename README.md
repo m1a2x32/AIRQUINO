@@ -21,6 +21,8 @@ Share the value found with another device (Raspberry Pi) – Multiple ways to ta
   - ESP32 can coexist as Client / Server
   - Raspberry Pi can act as another Server with a Write type Characteristic
 3.	Client / Server advertising data collected from one thingy
+  - According to the thingy:52 data sheet the data is advertised as 4 bytes. First 2 bytes as CO2 and Last 2 bytes as VOC. 
+  - ESP is little endian, research before trying to understand data being advertised!
 
 # References
 -	Single Server - https://github.com/espressif/esp-idf/blob/master/examples/bluetooth/bluedroid/ble/gatt_client/tutorial/Gatt_Client_Example_Walkthrough.md 
