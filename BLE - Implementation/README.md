@@ -1,4 +1,4 @@
-# AQUINO
+# AIRQUINO
 
 # Introduction
 The following documentation will serve as the steps taken by the group members to complete the following project. The environment used to program the ESP32 is ESP-IDF on Visual Studio. The reason for us using ESP-IDF rather than Arduino IDE was because we ran into some problems when connecting to the Nordic Thingy:52. Not only did we consider the problems, but also found more documentation on the handling BLE GATT client / servers. It is recommended for the ESP to hold the BLE connections to 3, even though it can reach 9.
