@@ -1,9 +1,1 @@
-# Commands for virtual environment
-
-- Run
-  .\env\Scripts\activate
-      (env) jupyter lab
-
-- Exit
-  Ctrl + c
-    (env) deactivate
+Jupyter lab runs on virtual environment in the Raspberry Pi.
